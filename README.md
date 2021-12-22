@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Harsh Aryan aka @aryanh
-- 👀 I’m interested in Data Structures, Networking, Problem Solving, Information Security, Data science and Cyber Forensics
-- 🌱 I’m currently learning RHEL8 Administration, Cloud Computing, Ansible Automation, ML/ DL, Containerisation, Virtualization, DevOps, System Designing. 
-- 💞️ I’m looking to collaborate on Projects based on Containers, Cloud, Automation or DL/ML.
+- 👋 Hi, I’m Harsh Aryan and a RH certified Engineer.
+- 👀 I’m interested in Data Structures, Networking, Problem Solving, DevOps, FullStack Development, Blockchain Development and Digital Decentralization.
+- 🌱 I currently work with RHEL8 Administration, Cloud Computing, Ansible Automation, ML/ DL, Containerisation, Virtualization, DevOps, System Designing. 
+- 💞️ I’m looking to collaborate on Projects based on Containers, Cloud, Automation or Blockchain.
 - 📫 Email me: aryanh289@gmail.com
-- 📫 LinkedIN: https://www.linkedin.com/in/harsh-aryan-686bb4166/
+- 📫 LinkedIn: https://www.linkedin.com/in/harsharyan09/
 
 <!---
 aryanh289/aryanh289 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
